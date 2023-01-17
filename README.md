@@ -1,5 +1,5 @@
 # Olá! Eu sou o Leonardo Burtet
-<!-- 
+ 
  <div>
   <a href="https://github.com/Leonardo-Burtet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Burtet&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -19,4 +19,4 @@
 ### OS User: 
   
   <img align="center" alt="html" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
- -->
+
